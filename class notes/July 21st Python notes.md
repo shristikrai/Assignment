@@ -132,12 +132,3 @@ Creates dictionaries in a single line.
 Example:  
 squares={x:x\*x for x in range(5)}
 
-**21\. Revision Tips**
-
-• Strings are immutable.  
-• Lists are mutable.  
-• Tuples are immutable.  
-• Sets store unique values.  
-• Dictionaries store key:value pairs.  
-• Use list comprehensions for cleaner code.  
-• Use shallow/deep copy when working with nested collections.
