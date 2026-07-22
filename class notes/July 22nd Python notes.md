@@ -129,14 +129,3 @@ Output: \[2,4,6\]
 | lambda    | Create a quick one-line function |
 | ---       | ---                              |
 
-**15\. Revision Tips**
-
-• Functions reduce code repetition.  
-• def creates a function.  
-• Parameters receive values; arguments are passed values.  
-• return gives back a value.  
-• yield pauses a function.  
-• map transforms data.  
-• filter selects data.  
-• reduce combines data into one value.  
-• lambda is useful for simple one-line functions.
